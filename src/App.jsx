@@ -64,7 +64,7 @@ function App() {
         <div className="flex justify-between">
           <div className="w-[40%]">
             <div className="bg-white">
-              <p className=" w-full shadow-md shadow-black p-4 my-2">
+              <p className=" w-full shadow-md shadow-gray-500 p-4 my-2">
                 Recent Jobs Near Brisbane
               </p>
             </div>
@@ -80,7 +80,7 @@ function App() {
             </div>
           </div>
           <div className="w-[55%]">
-            <p className=" shadow-md shadow-black p-4 my-2 h-14 bg-white">
+            <p className=" shadow-md shadow-gray-500 p-4 my-2 h-14 bg-white">
               New Instructor Near Brisbane
             </p>
             <div className=" h-[130px] overflow-scroll overflow-x-hidden">
@@ -94,7 +94,7 @@ function App() {
               ))}
             </div>
             <div>
-              <p className=" shadow-md shadow-black p-4 my-2 h-14 bg-white">
+              <p className=" shadow-md shadow-gray-500 p-4 my-2 h-14 bg-white">
                 Trending Articles
               </p>
               <div className="h-[110px] overflow-scroll overflow-x-hidden">
